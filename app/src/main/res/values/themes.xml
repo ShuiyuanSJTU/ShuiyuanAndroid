@@ -2,5 +2,6 @@
     <!-- Base application theme. -->
     <style name="Theme.Shuiyuan" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="colorPrimary">#FFFFFFFF</item>
+        <item name="colorPrimaryDark">#FFFFFFFF</item>
     </style>
 </resources>
