@@ -34,7 +34,7 @@ import androidx.core.content.ContextCompat;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String FILE_TYPE = "image/*";    // file types to be allowed for upload
+    private static final String FILE_TYPE = "*/*";    // file types to be allowed for upload
     private final boolean MultipleFiles = true;         // allowing multiple file upload
 
     private WebView webView;
